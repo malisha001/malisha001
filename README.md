@@ -13,7 +13,7 @@
   </h1>
 </p>
 
-<h2 align="center">💻 Full-Stack Developer | 📱 Mobile App Developer | 🚀 Tech Explorer</h2>
+<h2 align="center">💻 Full-Stack Developer | 🚀 Tech Explorer</h2>
 
 <!-- Animated Typing Text -->
 <p align="center">
